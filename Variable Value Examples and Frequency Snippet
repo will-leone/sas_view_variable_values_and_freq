@@ -1,13 +1,3 @@
-/*******************************************
-Variable Value Example/Frequency Snippets
-
-View a variable's sample values and
-its variable value frequency
-distribution. Simply edit the three
-leading %LET statements.
-
-*******************************************/
-
 %LET ctpath = "/sasprod/crln/sasdata/aetna";
     /* Client-TPA's SAS grid path */
 %LET variable = memberid;
